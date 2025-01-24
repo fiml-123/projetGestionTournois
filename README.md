@@ -71,7 +71,7 @@ Pour toute question ou suggestion, contactez :
 # README - Qui à fait quoi ?
 
 ## Ensemble
-Cequi à été fait pendant les heures de cours :
+Ce qui à été fait pendant les heures de cours :
 - L'architecture globale de l'application (packages, structure des classes).
 - Première version de l'application.
 
@@ -90,7 +90,7 @@ Cequi à été fait pendant les heures de cours :
 
 Nous avons eu reccours à ChatGPT lors de la création de l'application notament à ces étapes :
 
-- **Création ed l'archithécture de base** :
+- **Création de l'archithécture de base** :
   - Cela nous à aider à mieux commprendre l'énoncé du projet et donc à avoir une meilleur vision de l'architecture attendue.
 - **Organisation du code** :
   - Mieux organiser nos classes et leur interactions.
