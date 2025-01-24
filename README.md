@@ -67,3 +67,19 @@ Pour toute question ou suggestion, contactez :
 - GitHub : [fiml-123](https://github.com/fiml-123/)
 
 ---
+
+# README - Qui à fait quoi ?
+
+## Ensemble
+Cequi à été fait pendant les heures de cours :
+- L'architecture globale de l'application (packages, structure des classes).
+- Première version de l'application.
+
+## Van
+- Correction des erreurs du code.
+- Amélioration des fonctionnalitées.
+- Test des fonctionnalités.
+
+## Farah
+- Rédaction de la documentation.
+- Création des diagrammes.
