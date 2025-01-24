@@ -83,3 +83,18 @@ Cequi à été fait pendant les heures de cours :
 ## Farah
 - Rédaction de la documentation.
 - Création des diagrammes.
+
+---
+
+# README - La place de L'IA ?
+
+Nous avons eu reccours à ChatGPT lors de la création de l'application notament à ces étapes :
+
+- **Création ed l'archithécture de base** :
+  - Cela nous à aider à mieux commprendre l'énoncé du projet et donc à avoir une meilleur vision de l'architecture attendue.
+- **Organisation du code** :
+  - Mieux organiser nos classes et leur interactions.
+- **Correction** :
+  - Corriger quelques bugs mais pas tous, la plus part du temps corrigé par l'humain.
+
+
