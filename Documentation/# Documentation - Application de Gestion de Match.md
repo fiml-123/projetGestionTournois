@@ -1,4 +1,3 @@
-```markdown
 # Documentation - Application de Gestion de Tournoi
 
 ## Table des Matières
@@ -191,6 +190,3 @@ Chaque classe ou service a une responsabilité unique, conformément au principe
 
 ### 7. Optimisation des performances
 - Utiliser des structures de données plus efficaces pour gérer les listes d'équipes et de matchs lorsque le volume de données augmente.
-
----
-```
